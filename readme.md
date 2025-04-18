@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/zhoujiahuan1991/AAAI2025-LReID-DASK"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FIJCV2024-C-Prompt&label=PAEMA&icon=github&color=%233d8bfd"></a>
+</p>
+
 ### Introduction
 This is the *official* repository of our IJCV 2024 paper "Compositional Prompting for Anti-Forgetting in Domain Incremental Learning". 
 
